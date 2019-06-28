@@ -1,3 +1,6 @@
+.PHONY: all
+all: hello.o ;
+
 SRCS = hello.c
 
 DEPDIR := .deps
