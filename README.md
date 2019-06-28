@@ -25,6 +25,8 @@ Make, and includes files that don't exist but which makepp can
 build. But here makepp cannot build hello.d, so why is it included in
 the `$(wildcard)`?
 
+This also fails similarly in makepp 2.0 and 1.40.1a.
+
 Second issue
 ------------
 
