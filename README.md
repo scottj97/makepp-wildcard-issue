@@ -1,6 +1,10 @@
 Makepp compatibility issue
 ==========================
 
+([Asked about
+this](https://sourceforge.net/p/makepp/discussion/142850/thread/f16d3aa3d1/)
+on the official makepp help forum.)
+
 This Makefile is based on the system described in [Auto Dependency
 Generation](http://make.mad-scientist.net/papers/advanced-auto-dependency-generation/). It
 is compatible with GNU Make but when I run it with makepp (2.0.99.2) I
