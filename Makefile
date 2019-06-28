@@ -1,3 +1,5 @@
+SRCS = hello.c
+
 DEPDIR := .deps
 DEPFLAGS = -MT $@ -MMD -MP -MF $(DEPDIR)/$*.d
 
